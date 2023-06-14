@@ -1,14 +1,15 @@
 # Балмуканов Анарбек Бекетович
 
-Java разработчик. Коммерческий опыт разработки - 5 лет. Опыт разработки java - 2 года. 
+Java разработчик. Коммерческий опыт разработки - 7 лет. Опыт разработки java - 3 года. 
 
 Email: balmukanovab@gmail.com \
 GitHub: [anarbekb](https://github.com/anarbekb) \
-LinkedIn: https://www.linkedin.com/in/anarbek/
+LinkedIn: [anarbek](https://www.linkedin.com/in/anarbek) \
+Telegram: [anarbekB](https://t.me/anarbekB)
 
 ## Опыт работы
 
-### Июнь 2021–настоящее время: Java разработчик в Andersen
+### Июнь 2021–настоящее время: Java разработчик в Andersen/Aston
 
 Опыт в сфере финтех на базе микросервисной архитектуры
 
@@ -16,14 +17,16 @@ LinkedIn: https://www.linkedin.com/in/anarbek/
 
 - Интеграции со стороними сервисами по REST/kafka
 - Написание интеграционных и unit тестов
+- Нагрузочное тестирование
 - Ревью кода и оценка задач
 - Поддержка стендов и исправление дефектов
 
 Технологический стек:
-- Java: `maven`, `java11`, `fly way`
+- Java: `java11`-`java17`, `maven`
 - Spring: `spring-boot`, `spring-data`
 - Camunda
 - Kafka
+- K8s
 - Docker
 - Postgres
 
@@ -45,7 +48,7 @@ LinkedIn: https://www.linkedin.com/in/anarbek/
 - Docker
 - Postgres
 
-#### Ноябрь 2016 — Сентябрь 2019: Разработчик в sliza
+### Ноябрь 2016 — Сентябрь 2019: Разработчик в sliza
 Разработка в стартапе на смешанном стеке java/php
 
 Чем я занимался:

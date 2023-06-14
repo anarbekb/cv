@@ -1,14 +1,15 @@
 # Balmukanov Anarbek Beketovich
 
-Java developer. Commercial development experience - 5 years. Java development experience - 2 years.
+Java developer. Commercial development experience - 7 years. Java development experience - 3 years.
 
 Email: balmukanovab@gmail.com \
 GitHub: [anarbekb](https://github.com/anarbekb) \
-LinkedIn: https://www.linkedin.com/in/anarbek/
+LinkedIn: [anarbek](https://www.linkedin.com/in/anarbek) \
+Telegram: [anarbekB](https://t.me/anarbekB)
 
 ## Work
 
-### June 2021–now: Java developer at Andersen
+### June 2021–now: Java developer at Andersen/Aston
 
 Fintech experience based on microservice architecture
 
@@ -16,15 +17,17 @@ What I did there:
 
 - Integration with third-party services via REST/kafka
 - Writing integration and unit tests
+- Load Testing
 - Code review and task evaluation
 - Support and bug fixes
 
 Technologies:
 
-- Java: `maven`, `java11`, `fly way`
+- Java: `java11`-`java17`, `maven`
 - Spring: `spring-boot`, `spring-data`
 - Camunda
 - Kafka
+- K8s
 - Docker
 - Postgres
 
@@ -47,7 +50,7 @@ Technologies:
 - Docker
 - Postgres
 
-#### November 2016 - September 2019: Developer at Sliza
+### November 2016 - September 2019: Developer at Sliza
 Development in a startup on a mixed java/php stack. System for joint purchases
 
 What I did there:
